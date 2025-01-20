@@ -23,7 +23,7 @@ $ThanhDieuMusicList->CommonMethod();
     <meta property="og:type" content="website">
     <link rel="shortcut icon" href="<?=$ThanhDieuHeader->favicon?>?v=<?=rand(1,999)?>" type="image/x-icon">
     <meta property="og:title" content="<?=$ThanhDieuHeader->title?>">
-    <meta property="og:url" content="//thanhdieu.com">
+    <meta property="og:url" content="//ducanhpham.github.io">
     <meta property="og:image" content="./res/v5/img/bg3.webp">
     <title><?=$ThanhDieuHeader->title?></title>
     <!--/ @StyleSheets /-->
@@ -36,7 +36,7 @@ $ThanhDieuMusicList->CommonMethod();
     <link rel="stylesheet" href="./res/v5/libs/jbox@1.3.3/jBox.all.min.css">
     <!--/ @CDN /-->
     <link href="https://cdn.jsdelivr.net/npm/remixicon@4.2.0/fonts/remixicon.min.css" rel="stylesheet">
-    <link rel="stylesheet" href="//cdn.thanhdieu.com/dialog/wstoast/ws.toast.css?v=1">
+    <link rel="stylesheet" href="//cdn.ducanhpham.github.io/dialog/wstoast/ws.toast.css?v=1">
 </head>
 <body class="BodyStyle">
     <div class="td-lock-screen">
@@ -261,7 +261,7 @@ $ThanhDieuMusicList->CommonMethod();
                                             <span class="nk-opt-item-name">Sosuke</span>
                                         </div>
                                         <div class="nk-opt-item"
-                                            data-bg="https://api.thanhdieu.com/random-background.php">
+                                            data-bg="https://api.ducanhpham.github.io/random-background.php">
                                             <span class="nk-opt-item-bg">
                                                 <img src="./res/v5/img/random.jpeg">
                                             </span>
@@ -375,7 +375,7 @@ $ThanhDieuMusicList->CommonMethod();
     </span>
     <footer id="footer">
         <span>
-            <a href="//thanhdieu.com" target="_blank">&copy; Copyright&nbsp;ThanhDieu 2024</a>
+            <a href="//ducanhpham.github.io" target="_blank">&copy; Copyright&nbsp;ThanhDieu 2024</a>
         </span>
     </footer>
     <div class="time-now" id="real-time">00:00:00</div>
@@ -392,7 +392,7 @@ $ThanhDieuMusicList->CommonMethod();
     </script>
     <!--/ @CDN /-->
     <script src="https://cdnjs.cloudflare.com/ajax/libs/typed.js/2.0.12/typed.min.js"></script>
-    <script src="//cdn.thanhdieu.com/dialog/wstoast/ws.toast.js"></script>
+    <script src="//cdn.ducanhpham.github.io/dialog/wstoast/ws.toast.js"></script>
     <!-- <?php require_once './res/function/fuck-devtools.php'; ?> -->
 </body>
 </html>
